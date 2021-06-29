@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and personal development
 - 🌱 I’m currently learning about GitHub
 - 💞️ I’m looking to collaborate on learning projects
-- 📫 How to reach me ...
+- 📫 How to reach me - Not on here
 
 <!---
 DavidOswald-SAP/DavidOswald-SAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
